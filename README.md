@@ -16,7 +16,7 @@ The dataset is the **Sentiment140 dataset**, containing tweets with the followin
 - `text`: Text of the tweet.
 - Additional fields like `ids`, `date`, `flag`, and `user` (not used in this project).
 
-You can download the dataset from the [official source](http://help.sentiment140.com/).
+You can download the dataset from the [official source](https://www.kaggle.com/datasets/kazanova/sentiment140).
 
 ---
 
@@ -33,7 +33,7 @@ You can download the dataset from the [official source](http://help.sentiment140
 ## Installation and Setup
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/twitter-sentiment-analysis.git
+git clone https://github.com/dragoyt/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
 ```
 
@@ -84,4 +84,3 @@ The app will open in your default web browser. You can also access it at `http:/
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-"""
